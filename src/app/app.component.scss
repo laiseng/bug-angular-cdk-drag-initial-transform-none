@@ -1,0 +1,15 @@
+.draggable-item:hover {
+  cursor: grab;
+}
+
+.draggable-item {
+  border: solid;
+  border-radius: 1rem;
+  width: 10rem;
+  height: 10rem;
+  margin: 1rem;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
